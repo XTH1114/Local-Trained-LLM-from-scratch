@@ -1,6 +1,6 @@
 # Local-Trained-LLM-from-scratch
 
-This repository contains the necessary files and instructions to train a small Language Model (LLM) from scratch on your local machine using an external dataset. The `training.ipynb` Jupyter Notebook file walks you through the process step-by-step, enabling you to build and experiment with a foundational LLM for various natural language processing tasks. Codes are based on STAT 8931 at UMN.
+This repository contains the necessary files and instructions to train a small Language Model (LLM) from scratch on your local machine using an external dataset. The `training.ipynb` Jupyter Notebook file walks you through the process step-by-step, enabling you to build and experiment with a foundational LLM for various natural language processing tasks. Codes are revised from STAT 8931 at UMN.
 
 ## Overview
 
